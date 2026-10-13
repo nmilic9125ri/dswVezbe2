@@ -7,4 +7,7 @@ public class Calc {
         return a*b;
     }
 
+    public int pod(int a, int b ){
+        return a/b;
+    }
 }
